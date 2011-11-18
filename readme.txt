@@ -55,7 +55,8 @@ Go to http://www.OrderStorm.com/wordpress-ecommerce/wordpress-shopping-cart-scre
 
 == Changelog ==
 
-* Initial Release 0.4.9.10
+= 0.4.9.10 [2011.11.18] =
+* Initial Release
 
 == Upgrade Notice ==
 
