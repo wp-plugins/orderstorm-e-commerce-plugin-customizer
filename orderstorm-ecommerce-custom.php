@@ -3,7 +3,7 @@
 Plugin Name: OrderStorm e-Commerce Plugin Customizer
 Plugin URI: http://www.orderstorm.com/wordpress-ecommerce
 Description: A plugin to allow customization of styles for the OrderStorm WordPress e-Commerce Plugin
-Version: 0.4.9.10
+Version: 0.4.9.11
 Author: OrderStorm, Inc.
 Author URI: http://www.orderstorm.com
 License: GPL2 or later
