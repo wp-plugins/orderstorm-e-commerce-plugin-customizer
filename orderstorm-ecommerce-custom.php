@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: OrderStorm e-Commerce Plugin Customizer
+Plugin Name: OrderStorm e-Commerce Customizer - Deprecated
 Plugin URI: http://www.orderstorm.com/wordpress-ecommerce
-Description: A plugin to allow customization of styles for the OrderStorm WordPress e-Commerce Plugin
+Description: This plugin has been replaced by the OrderStorm e-Commerce Custom Files Manager.
 Version: 0.4.9.11
 Author: OrderStorm, Inc.
 Author URI: http://www.orderstorm.com

@@ -1,4 +1,4 @@
-=== OrderStorm eCommerce Plugin Customizer===
+=== OrderStorm eCommerce Plugin Customizer - Deprecated ===
 
 Contributors:  carlosman, dansallis
 Donate link: www.orderstorm.com/wordpress-e-commerce-sign-up/ecommerce-wordpress-plugin-pricing/
@@ -7,7 +7,7 @@ Requires at least: 3.0
 Tested up to: 3.2.1
 Stable tag: 0.4.9.11
 
-**This plugin has been replaced by the OrderStorm WordPress e-Commerce Plugin Customizer.**
+This plugin has been replaced by the OrderStorm e-Commerce Custom Files Manager.
 
 
 ==Description==
